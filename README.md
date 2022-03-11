@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MCVladIsLove
-- 👀 I’m interested in making games, game sources and other things about games.
-- 🌱 I’m currently learning c#, want to learn c++
+- 👀 I’m interested in low level programming.
+- 🌱 I’m coding C#, C, want to learn C++
 
 <!---
 MCVladIsLove/MCVladIsLove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
